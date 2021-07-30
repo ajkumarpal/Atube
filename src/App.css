@@ -1,0 +1,69 @@
+* {
+  background-color: #141526;
+  margin: 0;
+}
+.logo-img
+{
+  padding-left: 2%;
+  width: 100px;
+  float: left;
+}
+
+.app {
+  text-align: center;
+}
+
+.app__navbar {
+  background-color: #141526;
+  color: white;
+  padding: 30px;
+}
+#urlInput:focus
+{
+ border-color: #fff;
+}
+#urlInput
+{
+  font-size: 20px;
+  font-weight: 800;
+  outline: none;
+  border-color: blueviolet;
+  background:-moz-linear-gradient(top, #e72c83 0%, #a742c6 100%); 
+    background: -webkit-linear-gradient(top, #e72c83 0%,#a742c6 100%); 
+    background: linear-gradient(to bottom, #e72c83 0%,#a742c6 100%);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+   /* -webkit-text-fill-color:transparent; */
+   
+}
+.app__linkBox {
+  margin-top: 10%;
+  padding: 20px;
+}
+
+.app__linkBox input {
+  color: white;
+  padding: 20px;
+  width: 80%;
+  font-size: 20px;
+  border-radius: 8px;
+}
+h1,h2,h3,h4,h5,h6,p{
+  color: #fff;
+}
+::placeholder {
+  color: #fff;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+ color: #fff;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+ color: #fff;
+}
+input{
+  color: #fff;
+}
