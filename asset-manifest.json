@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/atube/static/css/main.f58c078f.chunk.css",
+    "main.js": "/atube/static/js/main.b0f6c02b.chunk.js",
+    "main.js.map": "/atube/static/js/main.b0f6c02b.chunk.js.map",
+    "runtime-main.js": "/atube/static/js/runtime-main.3eb2a102.js",
+    "runtime-main.js.map": "/atube/static/js/runtime-main.3eb2a102.js.map",
+    "static/js/2.bcfdd4b9.chunk.js": "/atube/static/js/2.bcfdd4b9.chunk.js",
+    "static/js/2.bcfdd4b9.chunk.js.map": "/atube/static/js/2.bcfdd4b9.chunk.js.map",
+    "index.html": "/atube/index.html",
+    "precache-manifest.72d5ed46234f974b93d7276dadd66c36.js": "/atube/precache-manifest.72d5ed46234f974b93d7276dadd66c36.js",
+    "service-worker.js": "/atube/service-worker.js",
+    "static/css/main.f58c078f.chunk.css.map": "/atube/static/css/main.f58c078f.chunk.css.map",
+    "static/js/2.bcfdd4b9.chunk.js.LICENSE.txt": "/atube/static/js/2.bcfdd4b9.chunk.js.LICENSE.txt",
+    "static/media/gif.gif": "/atube/static/media/gif.713767b5.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3eb2a102.js",
+    "static/js/2.bcfdd4b9.chunk.js",
+    "static/css/main.f58c078f.chunk.css",
+    "static/js/main.b0f6c02b.chunk.js"
+  ]
+}
